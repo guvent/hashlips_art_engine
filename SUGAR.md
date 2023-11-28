@@ -110,6 +110,7 @@ sugar config create
 
 ✔ Do you want your NFTs to remain mutable? We HIGHLY recommend you choose yes. · `yes`
 
+---
 
 ## Verify and upload candy machine...
 
@@ -132,9 +133,11 @@ sugar validate
 sugar launch
 ```
 
+### Output example...
+
 ---
 
-## Starting Sugar launch... 🚀 
+Starting Sugar launch... 🚀 
 
 `>>> sugar validate`
 
@@ -219,4 +222,47 @@ See your candy machine at:
 
 ✅ Command successful.
 
+---
 
+## Add guard to candy machine
+
+### Add configuration to config.json
+
+```
+"guards": {
+  "default": {
+    "botTax": {
+      "value": 0.01,
+      "lastInstruction": true
+    }
+  }
+},
+```
+
+### And run this command
+
+```
+sugar guard add 
+```
+
+### Output example...
+
+[1/3] 🔍 Looking up candy machine
+
+Candy machine ID: 7SB2PjqmABSY27SYDmaBAqsdN56AK8SMHgPWL9BAGbpd
+
+[2/3] 🛡  Initializing a candy guard
+Signature: cpn2WCAmw5Fu9JpZhbSGN8XmBQP5sZmiGaZkZtMUnAXy8hkf7TwAGPc7Bfv2k7yqMey9i8SVfPrVUxa6qqQTaiL
+
+Candy guard ID: HGM9E9UpJnPaUeXZRMQcABKsFBto9iMNJbKre9FFBz1L
+
+[3/3] 📦 Wrapping
+Signature: 3VRPawZF3xK2nnHApVmY9yZzivg2P9SBGkxdKfAfy4L85fyJEfyBVbgxMDyz1Cczvydv1YHe8RTngjYe6duJE89c
+
+The candy guard is now the mint authority of the candy machine.
+
+✅ Command successful.
+
+---
+
+Good luck :)
