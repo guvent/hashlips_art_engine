@@ -1,6 +1,6 @@
 {
-  "name": "Your Collection #2",
-  "symbol": "YC",
+  "name": "Demo Collection #2",
+  "symbol": "DC",
   "description": "Remember to replace this description",
   "seller_fee_basis_points": 1000,
   "image": "2.png",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Large"
     },
     {
       "trait_type": "Shine",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Top lid",
-      "value": "Middle"
+      "value": "Low"
     }
   ],
   "properties": {

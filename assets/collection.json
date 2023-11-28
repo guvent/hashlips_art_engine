@@ -1,6 +1,6 @@
 {
-  "name": "Your Collection",
-  "symbol": "YC",
+  "name": "Demo Collection",
+  "symbol": "DC",
   "description": "Remember to replace this description",
   "seller_fee_basis_points": 1000,
   "image": "collection.png",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",

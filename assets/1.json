@@ -1,6 +1,6 @@
 {
-  "name": "Your Collection #1",
-  "symbol": "YC",
+  "name": "Demo Collection #1",
+  "symbol": "DC",
   "description": "Remember to replace this description",
   "seller_fee_basis_points": 1000,
   "image": "1.png",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Awesome Eye Color",
-      "value": "Yellow"
+      "value": "Cyan"
     },
     {
       "trait_type": "Iris",
-      "value": "Large"
+      "value": "Small"
     },
     {
       "trait_type": "Shine",

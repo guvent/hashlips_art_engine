@@ -1,11 +1,11 @@
 {
-  "name": "Demo Collection #0",
+  "name": "Demo Collection #8",
   "symbol": "DC",
   "description": "Remember to replace this description",
   "seller_fee_basis_points": 1000,
-  "image": "0.png",
+  "image": "8.png",
   "external_url": "https://www.youtube.com/c/hashlipsnft",
-  "edition": 0,
+  "edition": 8,
   "creator": "Daniel Eugene Botha",
   "attributes": [
     {
@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Awesome Eye Color",
-      "value": "Green"
+      "value": "Cyan"
     },
     {
       "trait_type": "Iris",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
@@ -40,7 +40,7 @@
   "properties": {
     "files": [
       {
-        "uri": "0.png",
+        "uri": "8.png",
         "type": "image/png"
       }
     ],

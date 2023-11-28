@@ -1,9 +1,9 @@
 {
   "tokenStandard": "nft",
-  "number": 4,
-  "symbol": "YC",
+  "number": 20,
+  "symbol": "DC",
   "sellerFeeBasisPoints": 1000,
-  "isMutable": true,
+  "isMutable": false,
   "isSequential": true,
   "creators": [
     {

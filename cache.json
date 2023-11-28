@@ -1,49 +1,177 @@
 {
   "program": {
-    "candyMachine": "7SB2PjqmABSY27SYDmaBAqsdN56AK8SMHgPWL9BAGbpd",
-    "candyGuard": "HGM9E9UpJnPaUeXZRMQcABKsFBto9iMNJbKre9FFBz1L",
-    "candyMachineCreator": "2nmm1cRSjgm11WtN16AFPoFqGuXgjt8Dw2Z4Wi1Fqfsp",
-    "collectionMint": "7c9oRLhJeTg6c1rUoq25kFp4nqXYzn2Kd3vxqHM6Kn9M"
+    "candyMachine": "9EeBL2gXqB2Z38nourb7KfBSjZSzM2fq3jJxnVUMFeyB",
+    "candyGuard": "75bsE3NjWJT418MgCWRT9kTdpySr3XJy6N43trKwjv3m",
+    "candyMachineCreator": "AE3UAf573mLHJuxEYBzMzGHEkCoknPASvZggtB6ztEdK",
+    "collectionMint": "E4qJu6Vzdh91jVTRKxzH93pmRmuKxEUPxLQx7ZPEfYtC"
   },
   "items": {
     "-1": {
-      "name": "Your Collection",
-      "image_hash": "3bae6d5ac2086638d558b5c4a7c5986692642b8cead6f885cc7e2f87fac19a3d",
-      "image_link": "https://arweave.net/jgIif74P003DbmeXBWzbf8V6zI8QgWHuhejqj6tjpQ0?ext=png",
-      "metadata_hash": "238328f7aac6d78370d7c19cad235b2ac548882c1618796d91ec00869d3405ca",
-      "metadata_link": "https://arweave.net/q8rPw99aLVJZ1vrGRNg4POgcADhVvK3JSLlPLXP0NXM",
+      "name": "Demo Collection",
+      "image_hash": "dbbd09403d4b0810bf4cb6f24ad09ad91a4054ebcdf746fd19884055205f74fb",
+      "image_link": "https://arweave.net/u1AKxPZvwK0x6I8tZPa1sBwoVzc4ZgLZqJeRnrzsYb0?ext=png",
+      "metadata_hash": "fa9e40ae15b3670bd22396ed3a13090e6c47db502bd36c634bdb8ae0ed7b0e9d",
+      "metadata_link": "https://arweave.net/V3Aou0cqh_nd7SCD3kx6GTWBXWzy-kKxtjrRIOKT6_4",
       "onChain": true
     },
     "0": {
-      "name": "Your Collection #0",
-      "image_hash": "b775d1f063da49396cfb1500be0a1a3bd7eaa3e59d7a170cae012a556641587e",
-      "image_link": "https://arweave.net/0TI0jxn76QIQXa-R3oINWDHQxDQqjBdTZI2esWwC7Ro?ext=png",
-      "metadata_hash": "3fca5fe78d041e7605d81275dbdf9e4d935783faaaac271901ad7a44ceabe986",
-      "metadata_link": "https://arweave.net/ln4I5B4snj1pnzNSngpjjHnqVCDw6lZAQRuEbEb2ukI",
+      "name": "Demo Collection #0",
+      "image_hash": "54d88d84427c2d37164ab9a3da2eda8059004b968e02d63925b8732c9b665d15",
+      "image_link": "https://arweave.net/aEcsXl3_-XKH4j5dex07XQHQxTESo-Z7YUlpOavj2m0?ext=png",
+      "metadata_hash": "50bb941361e6c5cc57dd030be6e32b7006c338a8bf351a4e2f3fab186efc4aba",
+      "metadata_link": "https://arweave.net/qcreCldUfNAs-73duQphvPFJMZqbqPJvqai0r1KS6E0",
       "onChain": true
     },
     "1": {
-      "name": "Your Collection #1",
-      "image_hash": "8c531e3835a36de650e2b4f32b9beeea00f7d3cede0c097044015cc2c67d6e79",
-      "image_link": "https://arweave.net/wpUjWoWoDe7UGRViO4MSj6Y-MDVnevKZ47-rd4Z6sV8?ext=png",
-      "metadata_hash": "0845e73c62f0b65cfdff29645c2b9cf2d96263a37a2ac2abf60354c0efc6f69d",
-      "metadata_link": "https://arweave.net/aOIlbyq2NqXqdMpouJc5rjGFvsUiFl5WFNgBOkro0pE",
+      "name": "Demo Collection #1",
+      "image_hash": "ac716feb4ce881f8b1c939628b73514be5071fea8ef70376a5de871e7b415837",
+      "image_link": "https://arweave.net/0JGVW8ipuEhDeQQ-grKh2aEvk0Eja4qf6uCjsnwBDP8?ext=png",
+      "metadata_hash": "d3ac84234b1d66ebd836a2de7da8ac86f77a8a652efd73a22235aa99a2984932",
+      "metadata_link": "https://arweave.net/ouu8MB8-bUUQjf6We3liaYcEKKqUnLDToj0fGSDCEDQ",
       "onChain": true
     },
     "2": {
-      "name": "Your Collection #2",
-      "image_hash": "0a15886f6f144ff6c53d94d584b4faed812c44d9951dab37382827da05a4f055",
-      "image_link": "https://arweave.net/2greZR8sBkIELt1mmRtIVCQ_74Cf-OvlVAQcEPKj7cs?ext=png",
-      "metadata_hash": "307c8068e158d190b961bfcf06c51339b5e7ade8cdbdcf14820ab733cb8b4373",
-      "metadata_link": "https://arweave.net/R7olGsxkg0deRXg5oANIZxRLdeqwdntlk9x6f0NGics",
+      "name": "Demo Collection #2",
+      "image_hash": "dbbd09403d4b0810bf4cb6f24ad09ad91a4054ebcdf746fd19884055205f74fb",
+      "image_link": "https://arweave.net/JtIh94MQ5ZjBW-C9JNngb3-6I2LeNDQq3DeAIp5tCSQ?ext=png",
+      "metadata_hash": "6fbd969ae783b545da3470ba912ccb365821b883eaaebe012200be3274b75d1e",
+      "metadata_link": "https://arweave.net/0UxtXbDp1hN7kMdDzun03e9INiM-Lv3mUeE1p89CjAg",
       "onChain": true
     },
     "3": {
-      "name": "Your Collection #3",
-      "image_hash": "3bae6d5ac2086638d558b5c4a7c5986692642b8cead6f885cc7e2f87fac19a3d",
-      "image_link": "https://arweave.net/_oDpQMljue8UpeXMcxEB9Yb5WZefKn9OcZ36eO7DPAc?ext=png",
-      "metadata_hash": "471bd16eba6b5c12531e8f0c65f67acde946903003a2cedd33e1b07abb4751bf",
-      "metadata_link": "https://arweave.net/EOSHzQkk8VtZXJ71jPzIktgs2DN4PXeunprY5pwVvRU",
+      "name": "Demo Collection #3",
+      "image_hash": "bcd45e49f62aee774d2ebfdc9b43b8dc901cdf7bcbf5726f38b351ec52c93a46",
+      "image_link": "https://arweave.net/2ua__Bl8Rydn26HM4rAJJObl6KRitRoDddJ3ADsvk8Q?ext=png",
+      "metadata_hash": "cd8c6493e8827e58bb38c41c42860b3447b7220c6a33e46a838551f9b407827e",
+      "metadata_link": "https://arweave.net/yikYpZKUhJgGFjGRXGPMd8z6sbU-IyF1pyXME5chhow",
+      "onChain": true
+    },
+    "4": {
+      "name": "Demo Collection #4",
+      "image_hash": "ad19822c604c62a4356220f6b1f664895fbeef9670b004770469ee7654568039",
+      "image_link": "https://arweave.net/seIWU6FjqJwYjReuBjd1loW_5VZk_PHa9i4uboWOOuQ?ext=png",
+      "metadata_hash": "f8371957b1ee523f97cc21c81dd6cd451630cc75dd2e055984f9ad9aea476dd7",
+      "metadata_link": "https://arweave.net/Z8BZKuUhSjyOFCv36vGsE4a738m1qsNGJ2tA80-CV3M",
+      "onChain": true
+    },
+    "5": {
+      "name": "Demo Collection #5",
+      "image_hash": "fa7f77f0fc271f5b1a88ece798f92c587d0d6f802fbefd24df9b83d91f0ff4e4",
+      "image_link": "https://arweave.net/Mo_PPqBjqRWYfud4RsSRvRfsq--5xyNTgexZuHp9org?ext=png",
+      "metadata_hash": "dcce35b5f00467bbdf9ea1e57caa4633310efeb6e4b3374b15aa47acddb98692",
+      "metadata_link": "https://arweave.net/7vfmkicFjag_5AuLNv16PqYNzacxDAlnW4yUHvUmL5Q",
+      "onChain": true
+    },
+    "6": {
+      "name": "Demo Collection #6",
+      "image_hash": "8c5028475f24eb6370d98251e0826e56b93cc8b2049511311ee1fb01c91045b2",
+      "image_link": "https://arweave.net/9IJ5umvg6Lk7vnbkvnHYu9NDLYmWVjH9hY4Od1RvEqo?ext=png",
+      "metadata_hash": "91cbc085e774f84cf56c605c3a3d02aa976ec122d4234d14d09c0f4e4ada47b8",
+      "metadata_link": "https://arweave.net/jfcyrVSZPeGPTmtwPpAHTmFCgGpdb6KF0qNA5WwHvjs",
+      "onChain": true
+    },
+    "7": {
+      "name": "Demo Collection #7",
+      "image_hash": "c6f7550e8d5244ed50e4e41fac0c9717117bbebbcb3b0f08cf65f19011ccb38c",
+      "image_link": "https://arweave.net/22Kq2soswfeJLd2SLiVCBs9fVjUCxLFJ2TpxXY6H8Ts?ext=png",
+      "metadata_hash": "6ac40bbd5324cdb0a4b86ee6c4eda1f1a26bec3091521f97dd2d3efd303f3bb8",
+      "metadata_link": "https://arweave.net/MIrgKu3-hVdY5Ino4WqdnX6Guln7Wr2xRqdPZzl08FM",
+      "onChain": true
+    },
+    "8": {
+      "name": "Demo Collection #8",
+      "image_hash": "d693e6a9e2a8c3790539eca0c4f3dba1c78df0ff8396e7dea6afd847c0b16156",
+      "image_link": "https://arweave.net/ASBd6EqeSrmWysYwa10ynwCXgUvRki2IdNp6k9NJ2vI?ext=png",
+      "metadata_hash": "98dc4114bc5746a21520407261c28b3086c69822952a956cd7ecc0f4ef586bf0",
+      "metadata_link": "https://arweave.net/vG2Zh8fguUc-8q0_oKXaqAnwB_Q5rYbXdvoWAB5b8hw",
+      "onChain": true
+    },
+    "9": {
+      "name": "Demo Collection #9",
+      "image_hash": "7fdc1d64e1470904ffc33fffe8171a6e55217f7e5cf34606ae6e1edf0fbc11b7",
+      "image_link": "https://arweave.net/j294bgdBe0Y5TG-NJScdH-d3XnonB-WUya57rpzQVws?ext=png",
+      "metadata_hash": "b086e796a53f8f804fdc8ab7a66506a227ed0f3c77551fbbaea46eda46ef94a5",
+      "metadata_link": "https://arweave.net/xfLss0G-m4bFkm-QtUYenzCBVEaJ_r3wVOFLyVyomPE",
+      "onChain": true
+    },
+    "10": {
+      "name": "Demo Collection #10",
+      "image_hash": "edf17ab595bc9799c40da8e4c0713b3a21ce80f94f7d132277cb35020fc8cd0b",
+      "image_link": "https://arweave.net/20FmMT_xzuYAR9rJp_dy-OAumn2jpiMJenjohc_7VtA?ext=png",
+      "metadata_hash": "5e164b308d1e774b18aeba4e333147529b4da0d22047813c87356a387e3cb4dd",
+      "metadata_link": "https://arweave.net/yrC9KWGkrrDy6ybU6Brtcn5HBsV_A9jyS8Z-NKR_4rw",
+      "onChain": true
+    },
+    "11": {
+      "name": "Demo Collection #11",
+      "image_hash": "8c531e3835a36de650e2b4f32b9beeea00f7d3cede0c097044015cc2c67d6e79",
+      "image_link": "https://arweave.net/B5Kw8H1zRxu83lWuL33vGYLtGpWMxm4yo_uIRGENFbQ?ext=png",
+      "metadata_hash": "c27c7597281670c46dfc0dd2fe54c98c6c160911a126545d0e94cad16a36c03d",
+      "metadata_link": "https://arweave.net/UZkLGXeMeyOxC3fcHXI77G4uGlDqCsOpUgjDpB0Wh7k",
+      "onChain": true
+    },
+    "12": {
+      "name": "Demo Collection #12",
+      "image_hash": "8c5028475f24eb6370d98251e0826e56b93cc8b2049511311ee1fb01c91045b2",
+      "image_link": "https://arweave.net/2KYvoVoFKbg8m6On6kGZpxouj8waUnkV-8QIv8gqHHg?ext=png",
+      "metadata_hash": "f3e4cb703eae3b2856ea27559e87f2734416e2ecb8ce15870089c0da393986c6",
+      "metadata_link": "https://arweave.net/h-210CfzTFpCHBhCX86jRmh4gs6jxjt8073omroCwbQ",
+      "onChain": true
+    },
+    "13": {
+      "name": "Demo Collection #13",
+      "image_hash": "69e65b73f168b2ea5fe5428660490460fdfb4a5ddb204725238efbbe75d68e3d",
+      "image_link": "https://arweave.net/N8LN8Lnc63rT584LuhSG1ZDc6L3y-4tQYZbRmFXC4F0?ext=png",
+      "metadata_hash": "d3be7f8657900ebe2191f28eca2e3989c077b656f6713643f3fcf764476540f5",
+      "metadata_link": "https://arweave.net/8obW_Xy_NRIj0Ksh-KXJCB0MLBWOBNQEjVzUV6QzCsY",
+      "onChain": true
+    },
+    "14": {
+      "name": "Demo Collection #14",
+      "image_hash": "edf17ab595bc9799c40da8e4c0713b3a21ce80f94f7d132277cb35020fc8cd0b",
+      "image_link": "https://arweave.net/ddrPMk2waLB1fYeLPy4w8rXNPaXpzlBMkOyJCYNbOrw?ext=png",
+      "metadata_hash": "e456f0a07b5654ddd3dede24bda67c0f1e9240cc817b00fc4a213bdfb4c4e121",
+      "metadata_link": "https://arweave.net/4Ae5MuHWstxAdjXNrX-1xPlgCtUIEEspllaifK6T_dE",
+      "onChain": true
+    },
+    "15": {
+      "name": "Demo Collection #15",
+      "image_hash": "ecb84bf5b401b90a30b98f52d62b5c905f7df282a5da1cb75e5a0d9391588c6d",
+      "image_link": "https://arweave.net/TCTBqlr62xMiNQExIhS69j5V8fbDfx7hdHi7doCKFxE?ext=png",
+      "metadata_hash": "8d31e0ef102dd508393a45dcbdd2baadae17f7f87ac103b9f21023af91a9e86f",
+      "metadata_link": "https://arweave.net/ZXi6nLf_KL7qfFkztFiu2BAIVN3W6iQAUoDyhpN7M34",
+      "onChain": true
+    },
+    "16": {
+      "name": "Demo Collection #16",
+      "image_hash": "b3299062b2ecf07d6f6071a3b010a598f499bfda816d435eff96dc567a9eef4c",
+      "image_link": "https://arweave.net/edweFdrrzhqlq7YitlvSD6Mg1BPHMg3iHN6zsWbNIo0?ext=png",
+      "metadata_hash": "cb976c5261dfd4c084dd355de7951069d0fae9e7c2c43debd73a60f399d03b53",
+      "metadata_link": "https://arweave.net/wCo4BuAYxvYToFsr1bn8FcrOTHgGlILpeS42jgfvJmk",
+      "onChain": true
+    },
+    "17": {
+      "name": "Demo Collection #17",
+      "image_hash": "a14eb29d0d320ed2b06241990a89514e849003e31b23a4f833641b0386c33848",
+      "image_link": "https://arweave.net/6uA1bye3JS94qLqwaaMHdMN0-FHqhLnCphXpT81Y7ao?ext=png",
+      "metadata_hash": "fa7a7310a75e4d301fac6b771900e10062001fb382bb423eb4d6a6b2c1060544",
+      "metadata_link": "https://arweave.net/ZIGJKLEgJsXB-q_VaGaH3B4xeJnDuYy2U7r1DOyXz1U",
+      "onChain": true
+    },
+    "18": {
+      "name": "Demo Collection #18",
+      "image_hash": "b9978b68a7253da0dd3321d25a6f0e81cfe9cee4391b88a15f451c587ad79af8",
+      "image_link": "https://arweave.net/ShIzmCLNh7cm8h73dRgA-rOgoIB5hYA6mmBp1RIhPwU?ext=png",
+      "metadata_hash": "adde07e32862645c7d9146768338568f8a65d4f1bb941bd033efe9b219d7405a",
+      "metadata_link": "https://arweave.net/0USrgE4zZDA1PhD15ku4ZfrGzYJtwOpWjBStNfAfWHY",
+      "onChain": true
+    },
+    "19": {
+      "name": "Demo Collection #19",
+      "image_hash": "ac716feb4ce881f8b1c939628b73514be5071fea8ef70376a5de871e7b415837",
+      "image_link": "https://arweave.net/U5LllFBs_ciQCrMUECf1cYNITHwhY83QautCX0bKKg4?ext=png",
+      "metadata_hash": "c03af47fc3fbebfc73bd8f56ffae9bd274a20513ca69e41a483b590ab64e66e6",
+      "metadata_link": "https://arweave.net/m6KJ0e6QuYnVyd3NXmrSWXdVbEYgtYjBfu0MeLzANNw",
       "onChain": true
     }
   }
