@@ -42,7 +42,65 @@ Alternatively you can run this command if you have node installed.
 npm install
 ```
 
+---
+
+## Problems 🚨
+
+### If throw error as "Cannot find module '../build/Release/canvas.node'"
+
+```
+yarn add -D canvas
+```
+
+### If throw error as "/bin/sh: pkg-config: command not found"
+
+```
+brew install pkg-config
+```
+
+### If throw error as "No package 'pixman-1' found"
+
+```
+brew install pkg-config cairo pango libpng jpeg giflib librsvg
+```
+
 ## Usage ℹ️
+
+### If need you set config with `src/config.js` file.
+
+For solana;
+
+```
+const network = NETWORK.sol;
+```
+
+For ethereum;
+
+```
+const network = NETWORK.eth;
+```
+
+***
+
+### After run build command and copy all files to `asset` path;
+
+```
+yarn build
+
+cd ..
+
+mkdir assets
+
+cp hashlips_art_engine/build/images/* assets/
+
+cp hashlips_art_engine/build/json/* assets/
+
+cp hashlips_art_engine/collection/* assets/
+
+```
+
+
+## Usage Details ℹ️
 
 Create your different layers as folders in the 'layers' directory, and add all the layer assets in these directories. You can name the assets anything as long as it has a rarity weight attached in the file name like so: `example element#70.png`. You can optionally change the delimiter `#` to anything you would like to use in the variable `rarityDelimiter` in the `src/config.js` file.
 

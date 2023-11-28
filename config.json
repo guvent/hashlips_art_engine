@@ -1,0 +1,24 @@
+{
+  "tokenStandard": "nft",
+  "number": 4,
+  "symbol": "YC",
+  "sellerFeeBasisPoints": 1000,
+  "isMutable": true,
+  "isSequential": true,
+  "creators": [
+    {
+      "address": "4iGuJvHNsVRcEpED7x8D6Mkro1e66gNgQfZ6GAuGB2KC",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null,
+  "maxEditionSupply": null
+}

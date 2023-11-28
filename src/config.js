@@ -2,7 +2,7 @@ const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-const network = NETWORK.eth;
+const network = NETWORK.sol;
 
 // General metadata for Ethereum
 const namePrefix = "Your Collection";
@@ -15,7 +15,7 @@ const solanaMetadata = {
   external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "4iGuJvHNsVRcEpED7x8D6Mkro1e66gNgQfZ6GAuGB2KC",
       share: 100,
     },
   ],
@@ -24,20 +24,31 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 4,
     layersOrder: [
-      { name: "Background" },
+      {
+        name: "Background", options: {
+          bypassDNA: false
+        }
+      },
       { name: "Eyeball" },
-      { name: "Eye color" },
+      {
+        name: "Eye color",
+        options: {
+          blend: MODE.destinationIn,
+          opacity: 0.2,
+          displayName: "Awesome Eye Color",
+        },
+      },
       { name: "Iris" },
       { name: "Shine" },
-      { name: "Bottom lid" },
+      { name: "Bottom lid", options: { blend: MODE.overlay, opacity: 0.7 } },
       { name: "Top lid" },
     ],
   },
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
@@ -78,7 +89,9 @@ const background = {
   default: "#000000",
 };
 
-const extraMetadata = {};
+const extraMetadata = {
+  creator: "Daniel Eugene Botha",
+};
 
 const rarityDelimiter = "#";
 

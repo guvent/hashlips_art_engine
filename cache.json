@@ -1,0 +1,50 @@
+{
+  "program": {
+    "candyMachine": "7SB2PjqmABSY27SYDmaBAqsdN56AK8SMHgPWL9BAGbpd",
+    "candyGuard": "",
+    "candyMachineCreator": "2nmm1cRSjgm11WtN16AFPoFqGuXgjt8Dw2Z4Wi1Fqfsp",
+    "collectionMint": "7c9oRLhJeTg6c1rUoq25kFp4nqXYzn2Kd3vxqHM6Kn9M"
+  },
+  "items": {
+    "-1": {
+      "name": "Your Collection",
+      "image_hash": "3bae6d5ac2086638d558b5c4a7c5986692642b8cead6f885cc7e2f87fac19a3d",
+      "image_link": "https://arweave.net/jgIif74P003DbmeXBWzbf8V6zI8QgWHuhejqj6tjpQ0?ext=png",
+      "metadata_hash": "238328f7aac6d78370d7c19cad235b2ac548882c1618796d91ec00869d3405ca",
+      "metadata_link": "https://arweave.net/q8rPw99aLVJZ1vrGRNg4POgcADhVvK3JSLlPLXP0NXM",
+      "onChain": true
+    },
+    "0": {
+      "name": "Your Collection #0",
+      "image_hash": "b775d1f063da49396cfb1500be0a1a3bd7eaa3e59d7a170cae012a556641587e",
+      "image_link": "https://arweave.net/0TI0jxn76QIQXa-R3oINWDHQxDQqjBdTZI2esWwC7Ro?ext=png",
+      "metadata_hash": "3fca5fe78d041e7605d81275dbdf9e4d935783faaaac271901ad7a44ceabe986",
+      "metadata_link": "https://arweave.net/ln4I5B4snj1pnzNSngpjjHnqVCDw6lZAQRuEbEb2ukI",
+      "onChain": true
+    },
+    "1": {
+      "name": "Your Collection #1",
+      "image_hash": "8c531e3835a36de650e2b4f32b9beeea00f7d3cede0c097044015cc2c67d6e79",
+      "image_link": "https://arweave.net/wpUjWoWoDe7UGRViO4MSj6Y-MDVnevKZ47-rd4Z6sV8?ext=png",
+      "metadata_hash": "0845e73c62f0b65cfdff29645c2b9cf2d96263a37a2ac2abf60354c0efc6f69d",
+      "metadata_link": "https://arweave.net/aOIlbyq2NqXqdMpouJc5rjGFvsUiFl5WFNgBOkro0pE",
+      "onChain": true
+    },
+    "2": {
+      "name": "Your Collection #2",
+      "image_hash": "0a15886f6f144ff6c53d94d584b4faed812c44d9951dab37382827da05a4f055",
+      "image_link": "https://arweave.net/2greZR8sBkIELt1mmRtIVCQ_74Cf-OvlVAQcEPKj7cs?ext=png",
+      "metadata_hash": "307c8068e158d190b961bfcf06c51339b5e7ade8cdbdcf14820ab733cb8b4373",
+      "metadata_link": "https://arweave.net/R7olGsxkg0deRXg5oANIZxRLdeqwdntlk9x6f0NGics",
+      "onChain": true
+    },
+    "3": {
+      "name": "Your Collection #3",
+      "image_hash": "3bae6d5ac2086638d558b5c4a7c5986692642b8cead6f885cc7e2f87fac19a3d",
+      "image_link": "https://arweave.net/_oDpQMljue8UpeXMcxEB9Yb5WZefKn9OcZ36eO7DPAc?ext=png",
+      "metadata_hash": "471bd16eba6b5c12531e8f0c65f67acde946903003a2cedd33e1b07abb4751bf",
+      "metadata_link": "https://arweave.net/EOSHzQkk8VtZXJ71jPzIktgs2DN4PXeunprY5pwVvRU",
+      "onChain": true
+    }
+  }
+}
